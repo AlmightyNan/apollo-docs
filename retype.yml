@@ -1,0 +1,23 @@
+input: .
+output: .retype
+url: # todo: add after config
+branding:
+  title: Apollo
+  label: Docs
+  logo: static/apollo.png
+    
+links:
+- text: Home
+  link: https://docs.apollo-bot.tech
+
+- text: Website
+  link: https://apollo-bot.xyz
+
+- text: Premium
+  link: https://apollo-bot.xyz/premium
+
+- text: Support Server
+  link: https://discord.gg/apollo-hq-923425920096800788
+
+footer:
+  copyright: "&copy; {{ year }} Apollo. All rights reserved."
