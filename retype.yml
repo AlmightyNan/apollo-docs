@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: beta-docs.apollo-bot.xyz
+#url: beta-docs.apollo-bot.xyz
 branding:
   title: Apollo
   label: Docs
